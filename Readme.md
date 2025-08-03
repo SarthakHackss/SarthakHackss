@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/banner-3.png" alt="Profile Banner" />
-</p>
+![Header](./github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Sarthak Patil</h1>
 <h3 align="center">A Passionate Developer and Tinkerer</h3>
 
