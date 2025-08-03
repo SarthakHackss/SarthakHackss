@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/banner-3.png" alt="Profile Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Sarthak Patil</h1>
 <h3 align="center">A Passionate Developer and Tinkerer</h3>
 
@@ -40,8 +43,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msui&show_icons=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msui&layout=compact&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SarthakHackss&show_icons=true&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakHackss&layout=compact&theme=github_dark" height="160"/>
 </p>
 
 ---
