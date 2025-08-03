@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm msui</h1>
+<h1 align="center">Hi 👋, I'm Sarthak Patil</h1>
 <h3 align="center">A Passionate Developer and Tinkerer</h3>
 
 <p align="center">
@@ -49,10 +49,10 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/sarthakpatil19/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sarthak1963@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" alt="Email" />
   </a>
 </p>
