@@ -48,11 +48,10 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/SarthakHackss"><img src="https://github-readme-stats.vercel.app/api?username=SarthakHackss&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SarthakHackss's GitHub stats" /></a>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SarthakHackss&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SarthakHackss&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SarthakHackss&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakHackss&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub streak"/>
