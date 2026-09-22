@@ -53,9 +53,7 @@
 ![](https://streak-stats.demolab.com/?user=SarthakHackss&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SarthakHackss&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakHackss&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub streak"/>
-</p>
+
 
 <br/>
 
