@@ -50,10 +50,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarthakHackss&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakHackss&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages"/>
-</p>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/SarthakHackss"><img src="https://github-readme-stats.vercel.app/api?username=SarthakHackss&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SarthakHackss's GitHub stats" /></a>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakHackss&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub streak"/>
