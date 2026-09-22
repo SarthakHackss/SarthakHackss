@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hey, I'm Sarthak 👋</h1>
-<h3 align="center">Developer · Tinkerer · Hardware Hacker</h3>
+<h3 align="center">Developer · Tinkerer · Automation Tester</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=460&lines=I+build+cool+things+with+code;Lover+of+tech+%26+DIY+hardware;Always+learning+new+skills" alt="Typing SVG" />
@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/sarthakpatil19/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sarthak1963@gmail.com">
+  <a href="contact@sarthakpatil.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -67,7 +67,7 @@
   <a href="https://www.linkedin.com/in/sarthakpatil19/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sarthak1963@gmail.com">
+  <a href="mailto:contact@sarthakpatil.in">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" alt="Email"/>
   </a>
 </p>
